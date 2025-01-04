@@ -20,7 +20,7 @@ Link for the dataset: [Netflix Userbase Dataset](https://www.kaggle.com/datasets
 
 ---
 
-## About Dataset
+## About Dataset [Back to Top](#netflix-user-behavior-analysis)
 
 The dataset provides a snapshot of a sample Netflix userbase 3 years data 2021, 2022 & 2023, showcasing various aspects of user subscriptions, revenue, account details, and activity. Each row represents a unique user, identified by their User ID. The dataset includes information such as the user's subscription type (Basic, Standard, or Premium), the monthly revenue generated from their subscription, the date they joined Netflix (Join Date), the date of their last payment (Last Payment Date), and the country in which they are located.
 
@@ -30,7 +30,7 @@ Additional columns have been included to provide insights into user behavior and
 
 ---
 
-## Data Dictionary
+## Data Dictionary [Back to Top](#netflix-user-behavior-analysis)
 
 The dataset contains a total of 10 columns and 1,500 rows:
 
@@ -49,7 +49,7 @@ The dataset contains a total of 10 columns and 1,500 rows:
 
 ---
 
-## Dataset Screenshot
+## Dataset Screenshot [Back to Top](#netflix-user-behavior-analysis)
 
 ![image](https://github.com/user-attachments/assets/f273f739-1b07-4c7e-9698-1c1e7a06211b)
 
@@ -57,7 +57,7 @@ The dataset contains a total of 10 columns and 1,500 rows:
 
 ---
 
-## SQL Queries
+## SQL Queries [Back to Top](#netflix-user-behavior-analysis)
 
 **Simple Queries**
 
@@ -250,7 +250,7 @@ This query uses a CTE to calculate the duration between the join date and last p
 
 ---
 
-## PowerBi Visuals 
+## PowerBi Visuals [Back to Top](#netflix-user-behavior-analysis)
 
 ![image](https://github.com/user-attachments/assets/18f46e89-4188-4249-8e7a-d472b8533295)
 
