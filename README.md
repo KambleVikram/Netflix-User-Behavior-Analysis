@@ -20,7 +20,7 @@ Link for the dataset: [Netflix Userbase Dataset](https://www.kaggle.com/datasets
 
 ---
 
-## About Dataset [Back to Top](#netflix-user-behavior-analysis)
+## About Dataset 
 
 The dataset provides a snapshot of a sample Netflix userbase 3 years data 2021, 2022 & 2023, showcasing various aspects of user subscriptions, revenue, account details, and activity. Each row represents a unique user, identified by their User ID. The dataset includes information such as the user's subscription type (Basic, Standard, or Premium), the monthly revenue generated from their subscription, the date they joined Netflix (Join Date), the date of their last payment (Last Payment Date), and the country in which they are located.
 
@@ -248,9 +248,11 @@ This query uses a CTE to calculate the duration between the join date and last p
 
 ![image](https://github.com/user-attachments/assets/5055614c-9a6b-40ac-b3c6-c67ecab8b64a)
 
+[Back to Top](#netflix-user-behavior-analysis)
+
 ---
 
-## PowerBi Visuals [Back to Top](#netflix-user-behavior-analysis)
+## PowerBi Visuals 
 
 ![image](https://github.com/user-attachments/assets/18f46e89-4188-4249-8e7a-d472b8533295)
 
@@ -267,6 +269,7 @@ Visual-3
 The monthly revenue by subscription type graph shows how revenue fluctuates throughout the year, with peaks observed between July and October. The Basic plan consistently generates the most revenue each month, followed by the Premium and Standard plans. This indicates that more users are subscribed to the Basic plan, but the Premium plan also contributes a significant share.
 The map complements this by showing the geographical distribution of revenue. The United States, Canada, and Mexico are the top contributors to Netflix's revenue, with the U.S. standing out as the largest market. Additionally, countries in Europe, like the United Kingdom and Spain, also play a significant role, alongside Australia in the southern hemisphere. Together, these visuals provide a clear view of how revenue is distributed across both time and geography
 
+[Back to Top](#netflix-user-behavior-analysis)
+
 ---
  
-
