@@ -6,15 +6,15 @@ Link for the dataset: [Netflix Userbase Dataset](https://www.kaggle.com/datasets
 
 ## Table of Contents
 
-1. [About Dataset](#about-dataset)
-2. [Data Dictionary](#data-dictionary)
-3. [Dataset Screenshot](#dataset-screenshot)
-4. [SQL Queries](#sql-queries)
-   - [Simple Queries](#simple-queries)
-   - [Beginner-Level Queries](#beginner-level-queries)
-   - [Intermediate-Level Queries](#intermediate-level-queries)
-   - [Advanced-Level Queries](#advanced-level-queries)
-5. [Power BI Visuals](#power-bi-visuals)
+1. [About Dataset](##about-dataset)
+2. [Data Dictionary](##data-dictionary)
+3. [Dataset Screenshot](##dataset-screenshot)
+4. [SQL Queries](##sql-queries)
+   - [Simple Queries](###simple-queries)
+   - [Beginner-Level Queries](###beginner-level-queries)
+   - [Intermediate-Level Queries](###intermediate-level-queries)
+   - [Advanced-Level Queries](###advanced-level-queries)
+5. [Power BI Visuals](##power-bi-visuals)
 
 [Back to Top](#netflix-user-behavior-analysis)
 
@@ -59,7 +59,7 @@ The dataset contains a total of 10 columns and 1,500 rows:
 
 ## SQL Queries [Back to Top](#netflix-user-behavior-analysis)
 
-**Simple Queries**
+### **Simple Queries**
 
 SELECT TOP 10 * 
 
@@ -69,7 +69,7 @@ FROM [Netflix user base];
 
 ---
 
-**Beginner-Level Queries**
+### **Beginner-Level Queries**
 
 Query 1: Select Users from a Specific Country
 
@@ -101,7 +101,7 @@ WHERE Device = 'Smartphone';
 
 ---
 
-**Intermediate-Level Queries**
+### **Intermediate-Level Queries**
 
 Query 3: Count Users by Subscription Type
 
@@ -167,7 +167,7 @@ This query uses a subquery to find users who joined Netflix before a given date.
 
  ---
 
-**Advanced-Level Queries**
+### **Advanced-Level Queries**
 
 Query 7:Find the Most Recent Payment Date for Each User
 Code
