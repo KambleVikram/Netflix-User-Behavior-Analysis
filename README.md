@@ -7,7 +7,7 @@ Link for the dataset: [Netflix Userbase Dataset](https://www.kaggle.com/datasets
 ## Table of Contents
 
 1. [About Dataset](#about-dataset)
-2. [Data Dictionary](#Data Dictionary)
+2. [Data Dictionary](#data-dictionary)
 3. [Dataset Screenshot](#dataset-screenshot)
 4. [SQL Queries](#sql-queries)
    - [Simple Queries](#simple-queries)
