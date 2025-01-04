@@ -14,7 +14,7 @@ Link for the dataset: [Netflix Userbase Dataset](https://www.kaggle.com/datasets
    - [Beginner-Level Queries](#beginner-level-queries)
    - [Intermediate-Level Queries](#intermediate-level-queries)
    - [Advanced-Level Queries](#advanced-level-queries)
-5. [Power BI Visuals](#power-bi-visuals)
+5. [Power BI Visuals](#powerbi-visuals)
 
 [Back to Top](#netflix-user-behavior-analysis)
 
