@@ -6,15 +6,15 @@ Link for the dataset: [Netflix Userbase Dataset](https://www.kaggle.com/datasets
 
 ## Table of Contents
 
-1. [About Dataset](##about-dataset)
-2. [Data Dictionary](##Data Dictionary)
-3. [Dataset Screenshot](##dataset-screenshot)
-4. [SQL Queries](##sql-queries)
-   - [Simple Queries](###simple-queries)
-   - [Beginner-Level Queries](###beginner-level-queries)
-   - [Intermediate-Level Queries](###intermediate-level-queries)
-   - [Advanced-Level Queries](###advanced-level-queries)
-5. [Power BI Visuals](##power-bi-visuals)
+1. [About Dataset](#about-dataset)
+2. [Data Dictionary](#Data Dictionary)
+3. [Dataset Screenshot](#dataset-screenshot)
+4. [SQL Queries](#sql-queries)
+   - [Simple Queries](#simple-queries)
+   - [Beginner-Level Queries](#beginner-level-queries)
+   - [Intermediate-Level Queries](#intermediate-level-queries)
+   - [Advanced-Level Queries](#advanced-level-queries)
+5. [Power BI Visuals](#power-bi-visuals)
 
 [Back to Top](#netflix-user-behavior-analysis)
 
