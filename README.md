@@ -30,7 +30,7 @@ Additional columns have been included to provide insights into user behavior and
 
 ---
 
-## Data Dictionary [Back to Top](#netflix-user-behavior-analysis)
+## Data Dictionary 
 
 The dataset contains a total of 10 columns and 1,500 rows:
 
@@ -49,7 +49,7 @@ The dataset contains a total of 10 columns and 1,500 rows:
 
 ---
 
-## Dataset Screenshot [Back to Top](#netflix-user-behavior-analysis)
+## Dataset Screenshot 
 
 ![image](https://github.com/user-attachments/assets/f273f739-1b07-4c7e-9698-1c1e7a06211b)
 
@@ -57,7 +57,7 @@ The dataset contains a total of 10 columns and 1,500 rows:
 
 ---
 
-## SQL Queries [Back to Top](#netflix-user-behavior-analysis)
+## SQL Queries 
 
 ### **Simple Queries**
 
